@@ -31,10 +31,10 @@
         "url": "https://github.com/macyan2000/node-stratum-pool-x16r.git"
     },
     "dependencies": {
-        "multi-hashing": "git+https://github.com/macyan2000/node-multi-hashing-x16r.git",
+        "multi-hashing": "git+https://github.com/soulistyces/node-multi-hashing-x16r.git",
         "bitcoinjs-lib": "*",
         "bignum": "*",
-        "base58-native": "*",
+        "base58-native": "^4",
         "async": "*"
     },
     "engines": {
